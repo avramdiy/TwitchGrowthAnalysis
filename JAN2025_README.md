@@ -9,3 +9,7 @@
 ### 1/14
 
 - Added 1.12.25 files. Need to create dynamic dashboard for first week of data.
+
+### 1/15
+
+- Added 1.13.25 files.
