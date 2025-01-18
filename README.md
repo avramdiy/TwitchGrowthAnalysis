@@ -27,3 +27,7 @@
 - Added 1.16.25 files
 
 - Perform 1st Week Earnings Visualizations
+
+- Perform 1st Week Stats Visualizations
+
+- Perform 1st Week Views Visualizations
