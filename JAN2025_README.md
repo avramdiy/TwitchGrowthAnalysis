@@ -25,3 +25,5 @@
 ### 1/18
 
 - Added 1.16.25 files
+
+- Perform 1st Week Earnings Visualizations
