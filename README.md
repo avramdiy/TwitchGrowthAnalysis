@@ -31,3 +31,7 @@
 - Perform 1st Week Stats Visualizations
 
 - Perform 1st Week Views Visualizations
+
+### 1/19
+
+- Added 1.17.25 files
