@@ -55,3 +55,7 @@
 ### 1/24
 
 - Added 1.22.25 files
+
+### 1/25
+
+- Added 1.23.25 files, this sums Week 2. Will complete visualizations later today. (9:20am)
