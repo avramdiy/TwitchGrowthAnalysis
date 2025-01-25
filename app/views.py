@@ -7,13 +7,13 @@ app = Flask(__name__)
 
 # Paths to your Views.csv files
 VIEWS_FILES = [
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_10_25\Views.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_11_25\Views.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_12_25\Views.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_13_25\Views.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_14_25\Views.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_15_25\Views.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_16_25\Views.csv"
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_17_25\Views.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_18_25\Views.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_19_25\Views.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_20_25\Views.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_21_25\Views.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_22_25\Views.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_23_25\Views.csv"
 ]
 
 # Views types we expect

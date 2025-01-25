@@ -7,13 +7,13 @@ app = Flask(__name__)
 
 # Specify the exact paths to your Stats.csv files
 STATS_FILES = [
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_16_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_15_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_14_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_13_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_12_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_11_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_10_25\Stats.csv"
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_17_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_18_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_19_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_20_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_21_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_22_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_23_25\Stats.csv"
 ]
 
 def compile_stats_data():
@@ -85,7 +85,7 @@ def create_line_chart(stats_df):
     fig, ax = plt.subplots(figsize=(12, 6))
     stats_df['Followers Gained'].plot(ax=ax, color='green', label='Followers Gained', marker='o')
     stats_df['Followers Lost'].plot(ax=ax, color='red', label='Followers Lost', marker='x')
-    stats_df['Max Viewers'].plot(ax=ax, color='purple', label='Max Viewers', marker='^')
+    stats_df['Max_Viewers'].plot(ax=ax, color='purple', label='Max_Viewers', marker='^')
     stats_df['Avg_Viewers'].plot(ax=ax, color='orange', label='Avg_Viewers', marker='s')
 
     # Customization of the chart
