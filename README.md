@@ -61,3 +61,11 @@
 - Added 1.23.25 files, this sums Week 2. Will complete visualizations later today. (9:20am)
 
 - Public Link to Week 2 Visualizations : https://drive.google.com/drive/folders/1PPl3XTQRQIkmdfEezP-8ssHQDscP4-WL?usp=sharing
+
+### 1/26
+
+- Begin Week 3 Visualization Data Collection (1.24 - 1.31)
+
+- Removed 1.17-1.23 files
+
+- Added 1.24.25 files
