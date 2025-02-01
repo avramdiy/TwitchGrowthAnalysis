@@ -89,3 +89,9 @@
 ### 1/31
 
 - Added 1.29.25 files
+
+### 2/1
+
+- Added 1.30.25 files and completed the collection of Week 3 data
+
+- Visualize then store all data in Google Drive later.
