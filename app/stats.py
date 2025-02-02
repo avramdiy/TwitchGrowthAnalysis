@@ -7,13 +7,13 @@ app = Flask(__name__)
 
 # Specify the exact paths to your Stats.csv files
 STATS_FILES = [
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_17_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_18_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_19_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_20_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_21_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_22_25\Stats.csv",
-    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_23_25\Stats.csv"
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_24_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_25_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_26_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_27_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_28_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_29_25\Stats.csv",
+    r"C:\Users\Ev\Desktop\Twitch Growth Analysis\DTM_1_30_25\Stats.csv"
 ]
 
 def compile_stats_data():
